@@ -1,0 +1,15 @@
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\bin\Debug\PR-21.102_Glazirin_3option.exe.config
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\bin\Debug\PR-21.102_Glazirin_3option.exe
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\bin\Debug\PR-21.102_Glazirin_3option.pdb
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option.csproj.AssemblyReference.cache
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\MainWindow.g.cs
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\App.g.cs
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option_MarkupCompile.cache
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option_MarkupCompile.lref
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\MainWindow.baml
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option.g.resources
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR_21._102_Glazirin_3option.Properties.Resources.resources
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option.csproj.GenerateResource.cache
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option.csproj.CoreCompileInputs.cache
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option.exe
+C:\Users\I'm\Desktop\Рубежныйй контроль\c#\PR-21.102_Glazirin_3option\PR-21.102_Glazirin_3option\obj\Debug\PR-21.102_Glazirin_3option.pdb
